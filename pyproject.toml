@@ -11,6 +11,7 @@ dynaconf = "3.2.3"
 chromadb = "0.4.17"
 numpy = "1.26.2"
 datasets = "2.14.6"
+chromaviz = "0.0.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "7.4.3"
